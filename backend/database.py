@@ -6,7 +6,7 @@ import logging
 logger = logging.getLogger(__name__)
 
 # Database path
-DATABASE_PATH = 'database/momo.db'
+DATABASE_PATH = '../database/momo.db'
 
 def connect_db():
     """
