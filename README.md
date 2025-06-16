@@ -64,7 +64,7 @@ This installs the web framework we need.
 
 ### Step 4: Create Folders
 Create two empty folders inside your project folder:
-```bash
+```
 mkdir logs
 mkdir database
 ```
