@@ -46,15 +46,15 @@ Think of this as your personal mobile money transaction analyzer. It takes your 
 
 ### Step 1: Get Python Ready
 Make sure you have Python installed. Open your terminal/command prompt and type:
-```bash
+
 python --version
-```
+
 You should see something like "Python 3.8.x" or newer.
 
 ### Step 2: Install Flask
-```bash
+
 pip install flask
-```
+
 This installs the web framework we need.
 
 ### Step 3: Download the Project
