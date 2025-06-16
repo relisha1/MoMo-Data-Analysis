@@ -149,5 +149,5 @@ if __name__ == "__main__":
     create_database()
 
     # Parse the XML file and process transactions
-    transactions = parse_xml("sms_data.xml")
+    transactions = parse_xml("../sms_data.xml")
     print(f"Processed {len(transactions)} transactions.")
